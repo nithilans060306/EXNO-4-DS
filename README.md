@@ -171,4 +171,4 @@ print(selected_features_anova)
 <img width="905" height="95" alt="image" src="https://github.com/user-attachments/assets/11ec561b-933c-4fe2-9da5-ff92a93f8497" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Successfully completed the Feature Scaling and Selection
